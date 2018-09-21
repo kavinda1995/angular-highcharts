@@ -31,9 +31,9 @@
   version "7946.0.3"
   resolved "https://registry.yarnpkg.com/@types/geojson/-/geojson-7946.0.3.tgz#e5791534ab0acfb2b3a39b713966cfcee85d469f"
 
-"@types/highcharts@^5.0.22":
-  version "5.0.22"
-  resolved "https://registry.yarnpkg.com/@types/highcharts/-/highcharts-5.0.22.tgz#60ebd8857c4a81e33360e623551d1e7ec896c759"
+"@types/highcharts@^5.0.29":
+  version "5.0.29"
+  resolved "https://registry.yarnpkg.com/@types/highcharts/-/highcharts-5.0.29.tgz#d15742265d46e6cf6388ed30ef6ff7055b2cead7"
   dependencies:
     "@types/geojson" "*"
 
